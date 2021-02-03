@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0aa6c3f943bb1c78f12e94358c44d37cb00969e0
                      木兰宽松许可证, 第2版
 
    木兰宽松许可证， 第2版 
@@ -126,6 +129,7 @@
                http://license.coscl.org.cn/MulanPSL2 
    THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.  
    See the Mulan PSL v2 for more details.  
+<<<<<<< HEAD
 =======
                                  Apache License
                            Version 2.0, January 2004
@@ -329,3 +333,5 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 >>>>>>> e6e51a9cf15a4aaca7ec2a69eeaad1279ae79734
+=======
+>>>>>>> 0aa6c3f943bb1c78f12e94358c44d37cb00969e0
